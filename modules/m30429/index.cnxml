@@ -1,0 +1,1636 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Cách trình bày số liệu kết quả nghiên cứu</title>
+  <metadata>
+  <md:content-id>m30429</md:content-id><md:title>Cách trình bày số liệu kết quả nghiên cứu</md:title>
+  <md:abstract>Công việc sau cùng và quan trọng nhất của người nghiên cứu là tóm tắt và trình bày số liệu, kết quả nghiên cứu. Mục đích công việc là trình bày kết quả làm sao cho người đọc dễ hiểu. Trình bày các kết quả chính của mục tiêu nghiên cứu đã tìm hay phát hiện ra trong nghiên cứu theo trình tự hợp lý.  
+	Đầu tiên, cần hiểu kết quả là gì? Khi đưa ra giả thuyết và giả thuyết đó đã được thử nghiệm kiểm chứng, theo dõi quan sát, thu thập số liệu và phân tích, đây được xem như là kết quả chính trả lời câu hỏi nghiên cứu. Thí dụ, trả lời câu hỏi nghiên cứu: “Chiều cao trung bình của sinh viên nam và nữ ở nhóm tuổi trưởng thành có giống nhau không?”. Công việc nghiên cứu là lấy số liệu chiều cao từ mẫu ngẫu nhiên sinh viên nam và nữ ở độ tuổi trưởng thành. Sau đó số liệu được phân tích, mô tả bằng tính toán mẫu như trung bình, độ lệch chuẩn, số mẫu n, dãy biến động, số liệu phân tích so sánh thống kê, … Tùy theo loại kết quả số liệu phân tích nghiên cứu và số liệu tóm tắt mà người nghiên cứu có thể trình bày kết quả theo một trong những dạng sau: dạng văn viết (text), dạng bảng, dạng biểu đồ, sơ đồ, hình ảnh…</md:abstract>
+  <md:uuid>5e86d829-84dd-454c-8cde-b5547fd7b4f6</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-4837430268">
+      <title>Trình bày dạng văn viết</title>
+      <para id="id5297189">Không phải tất cả các số liệu phân tích hay kết quả đều phải trình bày ở dạng bảng và hình. Những số liệu đơn giản, tốt nhất nên trình bày, giải thích ở dạng câu văn viết và các số liệu được cho vào trong ngoặc đơn. Thí dụ: Sản xuất hạt của cây mọc ngoài ánh sáng (52.3 ± 6.8 hạt) cao hơn những cây mọc trong bóng râm (14,7 ± 3,2 hạt, t=11,8, df=55, p&lt;0,001).</para>
+    </section>
+    <section id="id-779646175174">
+      <title>Trình bày bảng</title>
+      <section id="id-719312065361">
+        <title>Cấu trúc bảng số liệu</title>
+        <para id="id5297223"/>
+        <para id="id5297234">Cấu trúc bảng chứa các thành phần sau đây (Bảng 6.1):</para>
+        <list id="id5297241" list-type="bulleted">
+          <item>Số và tựa bảng</item>
+          <item>Tựa cột</item>
+          <item>Tựa hàng</item>
+          <item>Phần thân chính của bảng là vùng chứa số liệu</item>
+          <item>Chú thích cuối bảng</item>
+          <item>Các đường ranh giới giữa các phần . </item>
+        </list>
+        <para id="id5297282">Bảng dễ dàng được tạo ra bằng cách sử dụng chương trình Microsoft word hoặc bảng tính Excel. </para>
+        <figure id="id5297294">
+          <media id="id1172783929344" alt=""><image src="../../media/graphics1-4eff.png" mime-type="image/png" height="248" width="653"/></media>
+        </figure>
+      </section>
+      <section id="id-112399706146">
+        <title>Những tình huống được trình bày dạng bảng</title>
+        <list id="id5297328" list-type="bulleted">
+          <item>Có 3 đặc trưng thể hiện tốt khi sử dụng bảng để trình bày số liệu là: </item>
+        </list>
+        <list id="id5297340" list-type="bulleted">
+          <item>Số liệu thể hiện tính hệ thống, cấu trúc một cách ý nghĩa; </item>
+          <item>Số liệu phải rõ ràng, chính xác; </item>
+          <item>Số liệu trình bày cho đọc giả nhanh chóng dễ hiểu, thấy được sự khác nhau, so sánh và rút ra nhiều kết luận lý thú về số liệu và mối quan hệ giữa các số liệu với nhau.</item>
+        </list>
+        <list id="id5297368" list-type="bulleted">
+          <item>Loại số liệu thông tin mô tả như vật liệu thí nghiệm, yếu tố môi trường, các đặc tính, các biến thí nghiệm ( 2 hai biến), số liệu thô, số liệu phân tích thống kê trong phép thí nghiệm, sai số, số trung bình, … thường được trình bày ở dạng bảng.</item>
+          <item>Bảng được sử dụng khi muốn làm đơn giản hóa sự trình bày và thể hiện được kết quả số liệu nghiên cứu có ý nghĩa hơn là trình bày kết quả bằng dạng văn viết.</item>
+          <item>Bảng thường không được sử dụng khi có ít số liệu (khoảng &lt; 6), thay vì trình bày ở dạng text; và cũng không được trình bày khi có quá nhiều số liệu (khoảng &gt; 40), thay vì trình bày bằng đồ thị.</item>
+        </list>
+      </section>
+      <section id="id-741820366468">
+        <title>Các dạng bảng số liệu</title>
+        <para id="id5297435">* Bảng số liệu mô tả: </para>
+        <para id="id5297443">Số liệu rời rạc, mô tả các đặc tính, các biến thí nghiệm, số liệu thô, trung bình, tỷ lệ, sai số chuẩn, độ lệch chuẩn, … (Thí dụ Bảng 6.2, 6.3, 6.4)</para>
+        <para id="id5297465">Bảng 6.2 Cơ cấu công nghiệp (%) của Mã Lai năm 1992</para>
+        <table id="id5297482" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+                <entry>Quốc doanh</entry>
+                <entry>Tập thể</entry>
+                <entry>Tư doanh</entry>
+                <entry>Cá thể</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>Giá trị tổng sản lượng</entry>
+                <entry>70,6</entry>
+                <entry>2,8</entry>
+                <entry>2,8</entry>
+                <entry>23,8</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>Lao động</entry>
+                <entry>32,5</entry>
+                <entry>10,1</entry>
+                <entry>2,3</entry>
+                <entry>55,1</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>Vốn sản xuất</entry>
+                <entry>78,9</entry>
+                <entry>2,0</entry>
+                <entry>3,1</entry>
+                <entry>16,0</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5297790">Table 6.3 Một số đặc tính lý hóa của lớp đất mặt trong thí nghiệm…</para>
+        <table id="id5297812" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Đặc tính đất</entry>
+                <entry>Đơn vị</entry>
+                <entry>Trung bìnha</entry>
+              </row>
+              <row>
+                <entry>pHChất hữu cơN tổng sốP dễ tiêuK trao đổiCa trao đổiKhả năng trao đổi cation (CEC)</entry>
+                <entry>-%%ppmmeq/100 gmeq/100 gmeq/100 g</entry>
+                <entry>5,8 ± 0,14,15 ± 0,010,31 ± 0,017,3 ± 1,01,46 ± 0,079,18 ± 0,2773,3 ± 0,6</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5297988"> a Trung bình của 8 mẫu ± sai số chuẩn </para>
+        <para id="id5298013">Bảng 6.4 Biến động về nở con (phần trăm) của trứng thụ tinh ở cá Rô Phi cái được lấy mẫu từ nhiều nơi khác nhau trong năm 1997</para>
+        <table id="id5298035" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Nơi lấy mẫu</entry>
+                <entry>Trung bình (%)</entry>
+                <entry>Độ lệch chuẩn</entry>
+                <entry>Dãy biến động</entry>
+                <entry>N*</entry>
+              </row>
+              <row>
+                <entry>Sông An ĐịnhSông Bảy NgãSông Bình ThànhSông Đạt ToạiSông Bào CátSông Cái SâuSông Trà KiếtHồ Bốn BểHồ Hà LoanHồ Thanh TếHồ Ngọc TrìHồ Tân Thành</entry>
+                <entry>7,314,335,666,568,565,285,497,966,863,3110,737,36</entry>
+                <entry>13,957,8313,939,6414,278,2810,2514,547,844,1217,5812,93</entry>
+                <entry>0-53,10-25,40-77,80-46,50-57,30-30,90-45,70-67,60-32,40-16,10-41,60-63,3</entry>
+                <entry>15113864192845713643557</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5435271">*N = số lượng cá cái được khảo sát.</para>
+        <para id="id5435291">* Bảng số liệu thống kê </para>
+        <para id="id5435298"/>
+        <para id="id5435302">+ Thí nghiệm một nhân tố</para>
+        <para id="id5435310">- Bảng với phép thử LSD: Trình bày bảng so sánh trung bình qua phép thử LSD nên theo một vài qui luật như sau:</para>
+        <para id="id5435332">Qui luật 1: Chỉ sử dụng kiểm định LSD khi phân tích biến động qua kiểm định F có ý nghĩa.</para>
+        <para id="id5435345"/>
+        <para id="id5435349">Qui luật 2: Khi số nghiệm thức từ 5 trở xuống. Các trung bình nghiệm thức được so sánh giữa nghiệm thức đối chứng với mỗi nghiệm thức khác qua phép thử LSD (Bảng 6.5). Trình bày giá trị LSD.05 ở cuối hàng.</para>
+        <para id="id5435372">Bảng 6.5 So sánh năng suất của 3 giống bắp có triển </para>
+        <para id="id5435391"> vọng A, B và D với giống đối chứng C</para>
+        <table id="id5435408" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Giống bắp</entry>
+                <entry>Năng suất trung bình (t/haa)</entry>
+              </row>
+              <row>
+                <entry>Giống AGiống BGiống C (đối chứng)Giống DLSD.05</entry>
+                <entry>1,461,471,071,340,25</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5435532">a trung bình của 4 lần lập lại</para>
+        <para id="id5435550">Qui luật 3: Chỉ sử dụng 1 phép kiểm định. Không trình bày cả hai phép thử LSD và Duncan cho các trung bình nghiệm thức.</para>
+        <para id="id5435566">Qui luật 4: Khi phân tích nguồn biến động có chuyển đổi số liệu, kiểm định LSD có thể trình bày khi nào các giá trị trung bình được trình bày ở dạng chuyển đổi. </para>
+        <para id="id5435585">Qui luật 5: Khi so sánh các cặp trung bình nghiệm thức, trình bày giá trị LSD ở cuối hàng (Bảng 6.5) hoặc chú thích cuối bảng. Khi so sánh giữa nghiệm thức đối chứng với mỗi nghiệm thức khác thì trình bày các dấu *, ** hoặc ns theo sau trung bình các nghiệm thức để chỉ mức độ ý nghĩa qua phép kiểm định LSD (Bảng 6.6). </para>
+        <para id="id5435619">Bảng 6.6 So sánh năng suất trung bình của nghiệm thức đối chứng với 6 nghiệm thức thuốc trừ sâu qua phép thử LSD</para>
+        <table id="id5435637" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Nghiệm thức </entry>
+                <entry>Năng suất trung bìnha (kg/ha)</entry>
+                <entry>Khác biệt sovới đối chứng(kg/ha)</entry>
+              </row>
+              <row>
+                <entry>Dol-Mix (1 kg)Dol-Mix (2 kg)DDT + γ-BHCAzodrinDimecron-BoomDimecron-KnapĐối chứng</entry>
+                <entry>2,1272,6782,5522,1281,7941,6811,316</entry>
+                <entry>811 **1,362 **1,236 **812 **480 *365 ns--</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5435900"> aTrung bình 4 lần lập lại</para>
+        <para id="id5435923"> ** khác biệt có ý nghĩa thống kê 1%, * khác biệt có ý nghĩa thống kê </para>
+        <para id="id5435944"> 5%, ns không khác biệt có ý nghĩa thống kê</para>
+        <para id="id5435970">- Bảng với phép thử Duncan (DMRT): Việc sử dụng và trình bày chính xác các số liệu bảng qua phép kiểm định Duncan nên theo một vài qui luật sau:</para>
+        <para id="id5435994">Qui luật 1: Việc so sánh các cặp của các nghiệm thức qua phép kiểm định Duncan khi số nghiệm thức trên 5. Khi số liệu được chuyển đổi trong phân tích nguồn biến động và trung bình các nghiệm thức được trình bày với số liệu gốc, thì cho phép sử dụng bảng qua phép kiểm định Duncan không kể đến số lượng của nghiệm thức.</para>
+        <para id="id5436024"/>
+        <para id="id5436028">Qui luật 2: Sử dụng ký hiệu đường thẳng hoặc chữ theo sau các trung bình nghiệm thức để so sánh sự khác biệt qua phép kiểm định Duncan (Bảng 6.7).</para>
+        <para id="id5436043">Bảng 6.7 Trình bày phép kiểm định Ducan để so sánh trị số trung bình các nghiệm thức</para>
+        <table id="id5436062" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Nghiệm thức</entry>
+                <entry>Năng suất trung bình (kg/haa)</entry>
+              </row>
+              <row>
+                <entry>T2</entry>
+                <entry> 2,678 a</entry>
+              </row>
+              <row>
+                <entry>T3</entry>
+                <entry>2,552 b</entry>
+              </row>
+              <row>
+                <entry>T4</entry>
+                <entry> 2,128 c</entry>
+              </row>
+              <row>
+                <entry>T1</entry>
+                <entry> 2,127</entry>
+              </row>
+              <row>
+                <entry>T5</entry>
+                <entry>1,796</entry>
+              </row>
+              <row>
+                <entry>T6</entry>
+                <entry> 1,681 d </entry>
+              </row>
+              <row>
+                <entry>T7</entry>
+                <entry>1,316</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5436440"> a Trung bình của 4 lần lập lại. </para>
+        <para id="id5436460"> Bất kỳ 2 trung bình nối kết nhau cùng một </para>
+        <para id="id5436474"> đường thẳng đứng thì khác biệt không ý nghĩa ở mức 5%.</para>
+        <para id="id5436486">Qui luật 3: Sử dụng các ký hiệu chữ (Bảng 6.8)</para>
+        <para id="id5436500">Bảng 6.8 So sánh hàm lượng N trung bìnha (%) của 8 nghiệm thức phân bón ở mỗi giai đoạn sinh trưởng qua phép thử Duncan</para>
+        <table id="id5436527" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Nghiệm thức</entry>
+                <entrytbl namest="c2" nameend="c4" cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c3">Giai đoạn sinh trưởng (ngày sau khi cấy)</entry>
+                    </row>
+                    <row>
+                      <entry>15 </entry>
+                      <entry>40 </entry>
+                      <entry>55</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>12345678</entry>
+                <entry>2,95 de3,51 a3,35 ab3,25 abcd3,30 abc3,17 bcd2,80 e3,04 cde</entry>
+                <entry>1,85 de1,96 cde2,36 b2,20 bc1,80 e2,14 bcd2,76 a2,40 b</entry>
+                <entry>1,33 b1,30 b1,44 ab1,37 ab1,24 b1,27 b1,64 a1,39 ab</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5436869"> a Trung bình của 4 lần lập lại. Trong cùng một cột, các chữ số có mẫu tự theo </para>
+        <para id="id5436892">sau giống nhau thì không khác biệt có ý nghĩa thống kê ở mức 5%.</para>
+        <para id="id5436902">Qui luật 4: Không trình bày bảng khi các nghiệm thức không khác biệt qua phép kiểm định Duncan.</para>
+        <para id="id5436921">+ Thí nghiệm 2 nhân tố: Một vài qui luật sử dụng bảng để trình bày số liệu thí nghiệm 2 nhân tố như sau:</para>
+        <para id="id5436939">Qui luật 1: Sử dụng bảng khi tất cả các nhân tố có các số liệu cụ thể, nếu không thì sử dụng đồ thị để minh họa.</para>
+        <para id="id5436956">Qui luật 2: Các nhân tố được trình bày toàn bộ trong 1 bảng khi các nhân tố đồng đều nhau. Thường thì số nhân tố không nhiều hơn 3 và các mức độ trong mỗi nhân tố không quá lớn (Bảng 6.9).</para>
+        <para id="id5436973"/>
+        <para id="id5436978">Bảng 6.9 So sánh sự khác nhau về năng suất trung bình (t/haa) giữa 2 </para>
+        <para id="id5437012">mức độ trong mỗi 2 nhân tố</para>
+        <table id="id5437020" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>Manganese Dioxide</entry>
+                <entrytbl namest="c2" nameend="c8" cols="7">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c3">IR26</entry>
+                      <entry/>
+                      <entry namest="c5" nameend="c7">IR43</entry>
+                    </row>
+                    <row>
+                      <entry>Có bón vôi</entry>
+                      <entry>Không bón vôi</entry>
+                      <entry/>
+                      <entry/>
+                      <entry>Có bón vôi</entry>
+                      <entry>Không bón vôi</entry>
+                      <entry/>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>Có bónKhông bón</entry>
+                <entry>4,8 bcd4,3 cd</entry>
+                <entry>3,9 d3,6 d</entry>
+                <entry/>
+                <entry/>
+                <entry>6,2 a5,3 b</entry>
+                <entry>6,2 a4,0 cd</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5437307">Qui luật 3: Trình bày sự khác nhau trung bình giữa 2 mức độ. Đánh giá độ lớn, ảnh hưởng khác biệt ý nghĩa của mỗi nhân tố (Bảng 6.10). </para>
+        <para id="id5437332">+ Ở giống IR26, ảnh hưởng hoặc của vôi hoặc của manganese dioxide không ý nghĩa.</para>
+        <para id="id5437342">+ Ở giống IR43, ảnh hưởng của manganese dioxide gia tăng khi không bón vôi, và ảnh hưởng của vôi được tìm thấy khi manganese dioxide không bón.</para>
+        <para id="id5437359">Bảng 6.10 So sánh sự khác nhau về năng suất trung bình (t/haa) giữa 2 mức độ</para>
+        <para id="id5437386">trong mỗi 2 nhân tố.</para>
+        <table id="id5437396" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>Manganese Dioxide</entry>
+                <entrytbl namest="c2" nameend="c8" cols="7">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c3">IR26</entry>
+                      <entry/>
+                      <entry namest="c5" nameend="c7">IR43</entry>
+                    </row>
+                    <row>
+                      <entry>Có bón vôi</entry>
+                      <entry>Không bón vôi</entry>
+                      <entry>Khác biệt</entry>
+                      <entry/>
+                      <entry>Có bón vôi</entry>
+                      <entry>Không bón vôi</entry>
+                      <entry>Khác biệt</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>Có bónKhông bónKhác biệt</entry>
+                <entry>4,84,30,5ns</entry>
+                <entry>3,93,60,3ns</entry>
+                <entry>0,9ns0,7ns</entry>
+                <entry/>
+                <entry>6,25,30,9*</entry>
+                <entry>6,24,02,2*</entry>
+                <entry>0,01,3*</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5437790">aTrung bình của 4 lần lập lại, </para>
+        <para id="id5437806">** khác biệt có ý nghĩa thống kê 1%, * khác biệt có ý nghĩa thống kê 5%, </para>
+        <para id="id5437824">ns không khác biệt có ý nghĩa thống kê</para>
+        <para id="id5437846">Qui luật 4: Thí nghiệm thiết kế theo khối hoàn toàn ngẫu nhiên (CRD, RCB hoặc hình vuông Latin) thì sử dụng ký hiệu chữ để so sánh sự khác nhau kết quả trung bình của tất cả các nghiệm thức qua phép thử Duncan (Bảng 6.11). </para>
+        <para id="id5437874">Bảng 6.11 So sánh sự khác nhau về năng suất trung bình (t/haa) giữa 2 </para>
+        <para id="id5437902">mức độ trong mỗi nhân tố bằng ký hiệu chữ</para>
+        <table id="id5437911" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>Phân hữu cơ</entry>
+                <entrytbl namest="c2" nameend="c6" cols="5">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c2">IR26</entry>
+                      <entry/>
+                      <entry namest="c4" nameend="c5">IR64</entry>
+                    </row>
+                    <row>
+                      <entry>Bón lân</entry>
+                      <entry>Không bón lân</entry>
+                      <entry/>
+                      <entry>Bón lân</entry>
+                      <entry>Không bón lân</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>Có bónKhông bón</entry>
+                <entry>4,9bcd4,5 cd</entry>
+                <entry>4,2 d3,9 d</entry>
+                <entry/>
+                <entry>6,4 a5,3 b</entry>
+                <entry>6,3a4,6 cd </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5438154">a Trung bình của 4 lần lập lại. Khác biệt các trị số trung bình qua phép thử Duncan ở </para>
+        <para id="id5438172">mức ý nghĩa 5%.</para>
+        <para id="id5438180">Qui luật 5: Để kiểm chứng nhân tố hàng khác với nhân tố cột. Nếu sự tương tác giữa nhân tố A x B có ý nghĩa và mức độ của nhân tố A &lt; 6 và nhân tố B &gt; 6. Trình bày nhân tố A theo cột và nhân tố B theo hàng (Bảng 6.12). Đặt mẫu tự sau các trị số trung bình của nhân tố B để so sánh ở mỗi mức độ của nhân tố A qua phép thử Duncan. Để so sánh trung bình của nhân tố A với mỗi mức độ của nhân tố B qua phép thử LSD thì trình bày giá trị LSD để so sánh. </para>
+        <para id="id5438218"> Bảng 6.12 Ảnh hưởng việc làm cỏ và làm đất trên năng suất (kg/haa) </para>
+        <para id="id5438251"> của đậu xanh</para>
+        <table id="id5438263" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Phương pháplàm cỏ</entry>
+                <entrytbl namest="c2" nameend="c4" cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c3">Phương pháp làm đất</entry>
+                    </row>
+                    <row>
+                      <entry>Theo tập quán</entry>
+                      <entry>Bằng máy</entry>
+                      <entry>Không làm đất</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>Thuốc TrifluarinThuốc ButralinThuốc ButachlorThuốc AlachlorThuốc PendimenthalinThuốc ThiobencarbLàm cỏ tay (2 lần)Làm cỏ tay (1 lần)Không làm cỏTrung bình</entry>
+                <entry>114 abc101 bcd26 d48 cd46 cd94 bcd182 a160 ab75 cd94</entry>
+                <entry>274 ab265 ab232 ab201 bc200 bc137 c289 a263 ab148 c223</entry>
+                <entry>104 b84 b37 b48 b58 b44 b230 a224 a54 b98</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5269277">a Trung bình của 4 lần lập lại. Các trị số trung bình trong cùng một cột (phương pháp làm cỏ) được so sánh qua phép thử Duncan ở mức ý nghĩa 5%. Trị số trung bình của mỗi cột (phương pháp làm đất) được so sánh qua phép thử LSD0,05 có giá trị là 73 kg/ha.</para>
+      </section>
+    </section>
+    <section id="id-457400219206">
+      <title>Trình bày hình</title>
+      <para id="id5269321">Sử dụng hình nhằm minh họa các kết quả và mối quan hệ giữa các biến cho đọc giả dễ thấy hơn khi trình bày bằng bảng số liệu hoặc text. Sử dụng hình có thuận lợi là đọc giả hiểu nhanh chóng các số liệu mà không mất nhiều thời gian khi nhìn bảng. Các dạng hình được sử dụng gồm biểu đồ cột (colume chart), biểu đồ thanh (bar chart), biểu đồ tần suất (frequency histogram), biểu đồ phân tán (scatterplot), biểu đồ đường biểu diễn (line chart), biểu đồ hình bánh (pie chart), biểu đồ diện tích (area chart), sơ đồ chuổi (flow chart), sơ đồ phân cấp tổ chức (organization chart), hình ảnh (photos) ...</para>
+      <section id="id-626285406211">
+        <title>Biểu đồ cột và thanh </title>
+        <para id="id5269370">Biểu đồ cột và thanh được sử dụng để so sánh số liệu theo nhóm, hoặc số liệu được phân nhóm, hoặc có thể so sánh phần trăm tổng của nhiều số liệu. Để minh họa số liệu bằng biểu đồ cột và thanh cần tuân theo các hướng dẫn sau: Số liệu dạng nhóm, rời rạc (không liên tục) như phân bố tần suất và phần trăm, số liệu thứ tự (ordinal) hoặc số liệu nhãn (nominal), số liệu so sánh phân tích thống kê.</para>
+        <section id="id-404971250109">
+          <title>Biểu đồ sử dụng cho số liệu rời rạc </title>
+          <para id="id5269394">* Biểu đồ cột </para>
+          <para id="id5269409">Biểu đồ cột nên áp dụng cho số liệu rời rạc trong các hạng mục có chuỗi liên tục tự nhiên về trình tự thời gian hoặc một dãy số liệu : </para>
+          <list id="id5269420" list-type="bulleted">
+            <item>Tháng 2, 3, 4, 5, 6, …</item>
+            <item>Năm 1990, 1991, 1992, 1993, 1994, …(Thí dụ: Hình 6.1a hoặc 6.1b)</item>
+            <item>Dãy số liệu 0-10, 11-20, 21-30, 31-40, …</item>
+          </list>
+          <para id="id5269442"> Thí dụ: Bảng tính Excel về số liệu xuất khẩu cà phê và ca cao </para>
+          <para id="id5269458">trong 5 năm qua.</para>
+          <table id="id5269466" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Năm</entry>
+                  <entry>Cà phê</entry>
+                  <entry>Ca cao</entry>
+                </row>
+                <row>
+                  <entry>1995</entry>
+                  <entry>264</entry>
+                  <entry>148</entry>
+                </row>
+                <row>
+                  <entry>1996</entry>
+                  <entry>315</entry>
+                  <entry>182</entry>
+                </row>
+                <row>
+                  <entry>1997</entry>
+                  <entry>456</entry>
+                  <entry>280</entry>
+                </row>
+                <row>
+                  <entry>1998</entry>
+                  <entry>290</entry>
+                  <entry>320</entry>
+                </row>
+                <row>
+                  <entry>1999</entry>
+                  <entry>381</entry>
+                  <entry>460</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5269679"/>
+          <para id="id5269736">Hình 6.1a Số lượng cà phê và ca cao xuất khẩu trong 5 năm (1995-1999)</para>
+          <para id="id5269751"/>
+          <para id="id5269806">Hình 6.1b Số lượng cà phê và ca cao xuất khẩu trong 5 năm (1995-1999)</para>
+          <para id="id5269821">Biểu đồ cột còn được sử dụng để trình bày so sánh các thành phần trong các hạng mục (nghiệm thức) cho nhiều thí nghiệm phân tích (Hình 6.2).</para>
+          <para id="id5269832">Thí dụ: Bảng tính Excel về ảnh hưởng của liều lượng phân N đến trọng lượng khô (thân, lá, hoa, vỏ hạt) của lúa trồng trong chậu.</para>
+          <table id="id5269849" summary="">
+            <tgroup cols="4">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry>Nghiệm thức(gN/chậu)</entry>
+                  <entrytbl namest="c2" nameend="c4" cols="3">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <tbody>
+                      <row>
+                        <entry namest="c1" nameend="c3">Trọng lượng khô cây (g/chậu)</entry>
+                      </row>
+                      <row>
+                        <entry>Thân</entry>
+                        <entry>Lá</entry>
+                        <entry>Hoa + vỏ + hạt</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                </row>
+                <row>
+                  <entry>Đối chứng</entry>
+                  <entry>1.9</entry>
+                  <entry>0.8</entry>
+                  <entry>2.7</entry>
+                </row>
+                <row>
+                  <entry>0.9</entry>
+                  <entry>1.95</entry>
+                  <entry>1.5</entry>
+                  <entry>3.5</entry>
+                </row>
+                <row>
+                  <entry>1.9</entry>
+                  <entry>2.0</entry>
+                  <entry>1.6</entry>
+                  <entry>5.2</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <figure id="id5270089">
+            <media id="id1172779606851" alt=""><image src="../../media/graphics2-00dc.png" mime-type="image/png" height="438" width="458"/></media>
+          </figure>
+          <para id="id5270113">* Biểu đồ thanh </para>
+          <para id="id5270120">Biểu đồ thanh được áp dụng cho số liệu trong các hạng mục không có chuỗi liên tục tự nhiên như các mục sản phẩm, hàng hóa, vật liệu, thu nhập, … (Hình 6.3; 6.4).</para>
+          <para id="id5270133">Thí dụ: Bảng tính Excel về sản lượng lương thực năm 1992 của Việt Nam</para>
+          <table id="id5270143" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Sản phẩm</entry>
+                  <entry>Triệu tấn/năm</entry>
+                </row>
+                <row>
+                  <entry>Lúa</entry>
+                  <entry>60.50</entry>
+                </row>
+                <row>
+                  <entry>Bắp</entry>
+                  <entry>21.93</entry>
+                </row>
+                <row>
+                  <entry>Khoai lang</entry>
+                  <entry>10.16</entry>
+                </row>
+                <row>
+                  <entry>Khoai mì</entry>
+                  <entry>4.81</entry>
+                </row>
+                <row>
+                  <entry>Đậu nành</entry>
+                  <entry>2.60</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5270302"/>
+          <para id="id5270357">Hình 6.3 Sản lượng lương thực năm 1992 của Việt Nam</para>
+          <para id="id5270375">Thí dụ: Bảng tính Excel về tổng thu (triệu đồng) từ sản xuất</para>
+          <para id="id5270388">cây trồng trong năm 2001 và 2002.</para>
+          <table id="id5270394" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Sản phẩm</entry>
+                  <entrytbl namest="c2" nameend="c3" cols="2">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <tbody>
+                      <row>
+                        <entry namest="c1" nameend="c2">Tổng thu</entry>
+                      </row>
+                      <row>
+                        <entry>2001</entry>
+                        <entry>2002</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                </row>
+                <row>
+                  <entry>Lúa</entry>
+                  <entry>155</entry>
+                  <entry>115</entry>
+                </row>
+                <row>
+                  <entry>Cây ăn trái</entry>
+                  <entry>100</entry>
+                  <entry>140</entry>
+                </row>
+                <row>
+                  <entry>Rau màu</entry>
+                  <entry>55</entry>
+                  <entry>100</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <figure id="id5270580">
+            <media id="id1172784143888" alt=""><image src="../../media/graphics3-d587.png" mime-type="image/png" height="307" width="577"/></media>
+          </figure>
+          <para id="id5270604">* Biểu đồ phối hợp giữa cột và đường biểu diễn (Hình 6.5)</para>
+          <para id="id5270620">Thí dụ: Bảng tính Excel về diễn biến lượng mưa và ẩm độ tương </para>
+          <para id="id5270634">đối của không khí ở Thành Phố Cần Thơ trong năm 2004 </para>
+          <table id="id5270639" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Tháng</entry>
+                  <entry>Lượng mưa(mm)</entry>
+                  <entry>Ẩm độ (%)</entry>
+                </row>
+                <row>
+                  <entry>01/2004</entry>
+                  <entry>98</entry>
+                  <entry>78</entry>
+                </row>
+                <row>
+                  <entry>02/2004</entry>
+                  <entry>-</entry>
+                  <entry>77</entry>
+                </row>
+                <row>
+                  <entry>03/2004</entry>
+                  <entry>-</entry>
+                  <entry>75</entry>
+                </row>
+                <row>
+                  <entry>04/2004</entry>
+                  <entry>10</entry>
+                  <entry>76</entry>
+                </row>
+                <row>
+                  <entry>05/2004</entry>
+                  <entry>120</entry>
+                  <entry>81</entry>
+                </row>
+                <row>
+                  <entry>06/2004</entry>
+                  <entry>170</entry>
+                  <entry>86</entry>
+                </row>
+                <row>
+                  <entry>07/2004</entry>
+                  <entry>175</entry>
+                  <entry>84</entry>
+                </row>
+                <row>
+                  <entry>08/2004</entry>
+                  <entry>220</entry>
+                  <entry>88</entry>
+                </row>
+                <row>
+                  <entry>09/2004</entry>
+                  <entry>230</entry>
+                  <entry>87</entry>
+                </row>
+                <row>
+                  <entry>10/2004</entry>
+                  <entry>250</entry>
+                  <entry>87</entry>
+                </row>
+                <row>
+                  <entry>11/2004</entry>
+                  <entry>145</entry>
+                  <entry>80</entry>
+                </row>
+                <row>
+                  <entry>12/2004</entry>
+                  <entry>75</entry>
+                  <entry>82</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <figure id="id5271095">
+            <media id="id1172783925489" alt=""><image src="../../media/graphics4-b48f.png" mime-type="image/png" height="340" width="503"/></media>
+          </figure>
+          <para id="id5271119">Hình 6.5 Diễn biến lượng mưa và ẩm độ tương đối của không khí ở Thành Phố Cần Thơ trong năm 2004 (Đài khí tượng thuỷ văn Thành Phố Cần Thơ, 2005)</para>
+          <para id="id5271137">Chú ý: Khi dãy số liệu có các giá trị số lớn hơn hai bậc (0-200), có thể áp dụng hàm logaric để chuyển đổi số liệu nhỏ hơn cân xứng với tỷ lệ đồ thị minh họa ở trục y. </para>
+        </section>
+        <section id="id-252174150771">
+          <title>Biểu đồ sử dụng cho số liệu phân tích thống kê</title>
+          <para id="id5271166">Khi muốn so sánh giá trị của các biến đơn, riêng lẻ (thường là các giá trị trung bình) trong số một vài nhóm như trong thí dụ 1 và 2 dưới đây. </para>
+          <para id="id5271178">Thí dụ 1: Mỗi cột trình bày giá trị phần trăm trung bình của trứng nở của cá rô Phi trong 2 năm (1996 và 1997) ở 3 môi trường sống khác nhau (Hình 6.6). </para>
+          <para id="id5271188">Thí dụ: Bảng tính Excel về phần trăm trứng nở của cá rô Phi ở 3 môi trường sống khác nhau trong 2 năm 1996 và 1997</para>
+          <table id="id5271205" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Môi trường</entry>
+                  <entry namest="c2" nameend="c3">Năm</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>1996</entry>
+                  <entry>1997</entry>
+                </row>
+                <row>
+                  <entry>A</entry>
+                  <entry>7.8</entry>
+                  <entry>5.9</entry>
+                </row>
+                <row>
+                  <entry>B</entry>
+                  <entry>3.8</entry>
+                  <entry>6.2</entry>
+                </row>
+                <row>
+                  <entry>C</entry>
+                  <entry>3.9</entry>
+                  <entry>6.5</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5271374">ABCHình 6.6 Ảnh hưởng của môi trường và thời gian (năm) đến khả năng trứng nở (trung bình % trứng nở của trứng không thụ tinh) của cá rô Phi. Các trị trung bình có chữ theo sau khác nhau thì khác biệt có ý nghĩa thống kê qua phép thử Duncan (p &lt; 0,05)Môi trường BCCABAB</para>
+          <para id="id5271643"/>
+          <para id="id5271647">Chú ý:</para>
+          <list id="id5271659" list-type="bulleted">
+            <item>Hình 6.6 đặt trước phần chú thích.</item>
+            <item>Số liệu được đo biểu diễn ở trục y.</item>
+            <item>Nhân tố thứ nhất của nghiệm thức (môi trường sống) biểu diễn ở trục x, mỗi nghiệm thức được trình bày riêng. </item>
+            <item>Nhân tố thứ hai của nghiệm thức (năm) được được thể hiện bởi các cột khác nhau (màu, độ cao cột).</item>
+            <item>Thanh sai số biểu thị ngay trên cột. </item>
+            <item>Sự khác nhau về thống kê được trình bày bởi các chữ trên thanh, kèm theo chú thích bên dưới đồ thị phép kiểm định (test) và mức ý nghĩa. </item>
+          </list>
+          <para id="id5271737">Thí dụ 2: Hình cột trình bày sự khác nhau giữa các nghiệm thức có thanh biểu thị sự khác biệt (Hình 6.7).</para>
+          <para id="id5271746">Thí dụ: Bảng tính Excel về ảnh hưởng của pH nước tưới đến chiều dài thân của cây con đậu đũa</para>
+          <table id="id5271758" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Nghiệm thức (pH)</entry>
+                  <entry>Chiều dài thân(mm)</entry>
+                </row>
+                <row>
+                  <entry>5,3</entry>
+                  <entry>6.20</entry>
+                </row>
+                <row>
+                  <entry>3,5</entry>
+                  <entry>7.10</entry>
+                </row>
+                <row>
+                  <entry>2,0</entry>
+                  <entry>2.40</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <figure id="id5271876">
+            <media id="id1172783922986" alt=""><image src="../../media/graphics5-e447.png" mime-type="image/png" height="473" width="557"/></media>
+          </figure>
+          <para id="id5271900">Chú ý:</para>
+          <list id="id5271911" list-type="bulleted">
+            <item>Hình 6.7 đặt trước phần chú thích.</item>
+            <item>Số liệu được đo (chiều dài thân) biểu diễn ở trục y.</item>
+            <item>Nghiệm thức (pH) biểu diễn ở trục x. </item>
+            <item>Thanh sai số biểu thị ngay trên cột.</item>
+            <item>Sự khác nhau thống kê được trình bày bởi đường thẳng phía trên thanh và được chú thích bên dưới đồ thị phép kiểm định (test) và mức ý nghĩa.</item>
+          </list>
+        </section>
+        <section id="id-114001990463">
+          <title>Biểu đồ sử dụng trong thí nghiệm có các nghiệm thức rời rạc và tương đối ít</title>
+          <para id="id5271983">- Thí nghiệm một nhân tố</para>
+          <para id="id5271994">Một vài qui luật sử dụng đồ thị để trình bày các kết quả so sánh trung bình của các nghiệm thức rời rạc như sau:</para>
+          <para id="id5272004">Qui luật 1: Sử dụng đồ thị minh họa khi có sự khác biệt nhau rõ ràng hoặc có sự thay đổi tương đối của các dạng trình bày cần nhấn mạnh, và không cần thiết để minh họa mức độ chính xác cao của các giá trị trung bình.</para>
+          <para id="id5272030"/>
+          <para id="id5272034">Qui luật 2: Khi phân tích sự khác biệt giữa các nghiệm thức qua phép kiểm định Duncan, sử dụng ký hiệu chữ trên các thanh cột của mỗi nghiệm thức (Hình 6.8).</para>
+          <para id="id5272052">Thí dụ: Bảng tính Excel về hàm lượng NH4-N hữu dụng trong 3 kiểu canh tác lúa.</para>
+          <table id="id5272073" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Nghiệm thức</entry>
+                  <entry>NH4-N (ppm)</entry>
+                </row>
+                <row>
+                  <entry>Đất ngập nước + đánh bùn</entry>
+                  <entry>50.2</entry>
+                </row>
+                <row>
+                  <entry>Đất ngập nước + không đánh bùn</entry>
+                  <entry>30.1</entry>
+                </row>
+                <row>
+                  <entry>Đất không ngập nước + không đánh bùn</entry>
+                  <entry>4.5</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5272200"><figure id="id5272210"><media id="id1172783923310" alt=""><image src=".wmf" mime-type="image/wmf" height="323" width="460"/></media></figure>Đất không ngập nước, không đánh bùnĐất ngập nước, không đánh bùnĐất ngập nước, đánh bùncbHình 6.8 Hàm lượng NH4-N hữu dụng trong 3 kiểu canh tác lúa khác nhau; các cột có chữ không giống nhau thể hiện sự khác biệt thống kê có ý nghĩa ở mức 5% aHàm lượng NH4-N (ppm)Nghiệm thức</para>
+          <para id="id5272457">Qui luật 3: Khi kiểm chứng khác biệt của mỗi nghiệm thức với nghiệm thức đối chứng qua phép kiểm định LSD, trình bày ký hiệu LSD (Hình 6.9).</para>
+          <para id="id5272475"/>
+          <para id="id5272479">Thí dụ: Bảng tính Excel về năng suất của các giống lúa lai, </para>
+          <para id="id5272491"> giống bố mẹ và giống thương mại IR36.</para>
+          <table id="id5272503" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Nghiệm thức</entry>
+                  <entry>Năng suất hạt (g/m2)</entry>
+                </row>
+                <row>
+                  <entry>V20A (Giống bố mẹ)</entry>
+                  <entry>290</entry>
+                </row>
+                <row>
+                  <entry>IR28 (Giống bố mẹ)</entry>
+                  <entry>395</entry>
+                </row>
+                <row>
+                  <entry>IR28/V20A (Giống lai)</entry>
+                  <entry>490</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>97A (Giống bố mẹ)</entry>
+                  <entry>305</entry>
+                </row>
+                <row>
+                  <entry>IR54 (Giống bố mẹ)</entry>
+                  <entry>340</entry>
+                </row>
+                <row>
+                  <entry>97A/IR54 (Giống lai)</entry>
+                  <entry>580</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>IR36 (Giống thương mại)</entry>
+                  <entry>525</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5414562"><figure id="id5414573"><media id="id1172788156887" alt=""><image src=".wmf" mime-type="image/wmf" height="290" width="424"/></media></figure>Hình 6.9. Năng suất tương đối của các giống lúa lai, giống bố mẹ và giống thương mại IR36; Các cột được nhóm lại và trình bày ký hiệu LSD LSD .05Năng suất (g/m2)Giống/dòng lúa</para>
+          <para id="id5414755">Qui luật 4: Trên trục y, luôn bắt đầu mức độ 0 để chiều cao tương đối và tuyệt đối của các cột được thể hiện một cách chính xác các trị số trung bình và sự khác biệt giữa các nghiệm thức (Hình 6.10). </para>
+          <para id="id5414775">Thí dụ: Bảng tính Excel về mật số côn trùng</para>
+          <table id="id5414785" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Nghiệm thức</entry>
+                  <entry>Mật số côn trùng(con/m2)</entry>
+                </row>
+                <row>
+                  <entry>T1</entry>
+                  <entry>170</entry>
+                </row>
+                <row>
+                  <entry>T2</entry>
+                  <entry>240</entry>
+                </row>
+                <row>
+                  <entry>T3</entry>
+                  <entry>190</entry>
+                </row>
+                <row>
+                  <entry>T4</entry>
+                  <entry>220</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5414961"><figure id="id5414971"><media id="id1172788157102" alt=""><image src=".wmf" mime-type="image/wmf" height="366" width="342"/></media></figure>Hình 6.10 Ảnh hưởng của 4 mức độ phân bón đến mật số côn trùngMật số (con/m2)Nghiệm thức</para>
+          <para id="id5415076">- Thí nghiệm 2 nhân tố</para>
+          <para id="id5415084">Sử dụng hình trình bày thí nghiệm hai nhân tố cần lưu ý trình tự, nhóm các nhân tố và mức độ mỗi nhân tố. Các cột được sắp thành hàng gần nhau được xem như các mức độ của nhân tố chính và nhân tố còn lại thì không trình bày cột. Thí dụ, nếu như người nghiên cứu muốn trình bày ảnh hưởng của manganese oxide là quan trọng thì nên trình bày ở Hình 6.11a. Nếu muốn nhấn mạnh yếu tố giống là quan trọng thì nên trình bày ở Hinh 6.11b thích hợp hơn.</para>
+          <para id="id5415106">Thí dụ: Bảng tính Excel về ảnh hưởng bón manganese oxide trên năng suất của 2 giống luá IR26 và IR43 </para>
+          <table id="id5415118" summary="">
+            <tgroup cols="9">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <colspec colnum="7" colname="c7"/>
+              <colspec colnum="8" colname="c8"/>
+              <colspec colnum="9" colname="c9"/>
+              <tbody>
+                <row>
+                  <entry namest="c1" nameend="c2">IR26</entry>
+                  <entry namest="c3" nameend="c4">IR43</entry>
+                  <entry/>
+                  <entry namest="c6" nameend="c7">Không bón MnO2</entry>
+                  <entry namest="c8" nameend="c9">Có bón MnO2</entry>
+                </row>
+                <row>
+                  <entry>Có bón MnO2</entry>
+                  <entry>Không bón MnO2</entry>
+                  <entry>Có bón MnO2</entry>
+                  <entry>Không bón MnO2</entry>
+                  <entry/>
+                  <entry>IR26</entry>
+                  <entry>IR43</entry>
+                  <entry>IR26</entry>
+                  <entry>IR43</entry>
+                </row>
+                <row>
+                  <entry>3.95</entry>
+                  <entry>3.7</entry>
+                  <entry>6.1</entry>
+                  <entry>3.95</entry>
+                  <entry/>
+                  <entry>3.7</entry>
+                  <entry>3.95</entry>
+                  <entry>3.95</entry>
+                  <entry>6.1</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <figure id="id5415436">
+            <media id="id1172779412223" alt=""><image src="graphics6.png" mime-type="image/png" height="411" width="571"/></media>
+          </figure>
+          <figure id="id5415463">
+            <media id="id1172779412257" alt=""><image src="graphics7.png" mime-type="image/png" height="432" width="528"/></media>
+          </figure>
+        </section>
+      </section>
+      <section id="id-268684079177">
+        <title>Biểu đồ tần suất </title>
+        <para id="id5415497">Đồ thị tần suất (hay gọi sự phân bố tần suất) thể hiện số liệu đo của các cá thể phân bố dọc theo trục của biến. Tần suất (trục y) có thể là trị số tuyệt đối (số đếm) hoặc tương đối (phần trăm hoặc tỷ lệ của mẫu). Trình bày bằng đồ thị tần suất cần thiết khi mô tả quần thể. Thí dụ về phân bố chiều cao cây và tuổi (Hình 6.12). </para>
+        <para id="id5415536">Thí dụ: Bảng tính Excel về sự phân bố chiều cao của các cây tràm trồng ở U Minh, tháng 1 năm 2001. N = 88 cây già và 123 cây con.</para>
+        <table id="id5415549" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Chiều cao(m)</entry>
+                <entry>Cây con (%)</entry>
+                <entry>Cây già (%)</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>1</entry>
+                <entry>0</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>2.5</entry>
+                <entry>0</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>8</entry>
+                <entry>0</entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>9</entry>
+                <entry>0</entry>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>10</entry>
+                <entry>2.5</entry>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>7</entry>
+                <entry>4.5</entry>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry>11.5</entry>
+                <entry>5</entry>
+              </row>
+              <row>
+                <entry>9</entry>
+                <entry>17</entry>
+                <entry>9.5</entry>
+              </row>
+              <row>
+                <entry>10</entry>
+                <entry>14.5</entry>
+                <entry>8.5</entry>
+              </row>
+              <row>
+                <entry>11</entry>
+                <entry>10</entry>
+                <entry>10.5</entry>
+              </row>
+              <row>
+                <entry>12</entry>
+                <entry>6.5</entry>
+                <entry>15</entry>
+              </row>
+              <row>
+                <entry>13</entry>
+                <entry>3</entry>
+                <entry>10.5</entry>
+              </row>
+              <row>
+                <entry>14</entry>
+                <entry>0</entry>
+                <entry>8.5</entry>
+              </row>
+              <row>
+                <entry>15</entry>
+                <entry>0</entry>
+                <entry>10</entry>
+              </row>
+              <row>
+                <entry>16</entry>
+                <entry>0</entry>
+                <entry>11.5</entry>
+              </row>
+              <row>
+                <entry>17</entry>
+                <entry>0</entry>
+                <entry>4</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <figure id="id5416171">
+          <media id="id1172779433096" alt=""><image src="graphics8.png" mime-type="image/png" height="336" width="504"/></media>
+        </figure>
+        <para id="id5416195">Chú ý:</para>
+        <list id="id5416203" list-type="bulleted">
+          <item>Trục y thể hiện % tần suất tương đối, số, giá trị của cột.</item>
+          <item>Số liệu đo (trục x) được chia làm hai hạng mục có chiều rộng cột thích hợp để trình bày sự phân bố quần thể. </item>
+          <item>Kích cỡ mẫu được trình bày rõ hoặc ở phần chú thích dưới đồ thị hoặc ở nơi trình bày đồ thị.</item>
+        </list>
+      </section>
+      <section id="id-00680600789971">
+        <title>Biểu đồ phân tán </title>
+        <para id="id5416247">Biểu đồ phân tán được sử dụng rộng rãi trong khoa học để trình bày sự phân bố các số liệu và mối quan hệ giữa các số liệu. Trong đó, các giá trị là các chấm phân bố và mối quan hệ được thể hiện bằng đường hồi qui tương quan (Hình 6.13). Biến phụ thuộc y có trục thẳng đứng phụ thuộc vào giá trị của biến độc lập x là trục nằm ngang. </para>
+        <para id="id5416266">Nếu như dãy số liệu có hai hay nhiều số có giá trị lớn (thí dụ, 0-200) thì có thể sử dụng hàm logaric (cơ số 10) để biến đổi số liệu có giá trị nhỏ hơn. Công việc này gọi là quá trình chuyển đổi số liệu. </para>
+        <para id="id5416280">* Các qui luật cơ bản để trình bày biểu đồ phân tán:</para>
+        <list id="id5416296" list-type="bulleted">
+          <item>Có hai biến (2 dãy số liệu). </item>
+          <item>Xác định rõ tên trục đồ thị cho các biến.</item>
+          <item>Chia tỷ lệ mỗi trục thích hợp để trình bày toàn bộ dãy số liệu của biến.</item>
+          <item>Nếu có mối quan hệ giữa các biến, biến độc lập nên chọn là trục x và biến phụ thuộc là trục y. Thí dụ chiều cao cây phụ thuộc vào độ tuổi, như vậy chiều cao cây là biến độc lập được biểu diễn trên trục x và tuổi là biến phụ thuộc là trục y. Đôi khi có trường hợp khó xác định được biến nào là biến phụ thuộc hay biến độc lập. Trong trường hợp này, không xác định được ảnh hưởng của biến nào đối với biến nào thì trình bày trong mối quan hệ tự chọn. </item>
+        </list>
+        <para id="id5416349">Thí dụ: Bảng tính Excel về mối quan hệ giữa trọng lượng khô (sinh khối) và năng suất hạt của lúa</para>
+        <table id="id5416361" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Số cây</entry>
+                <entry>Trọng lượng khô (g)</entry>
+                <entry>Số hạt</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>64</entry>
+                <entry>45</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>58</entry>
+                <entry>60</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>55</entry>
+                <entry>65</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>65</entry>
+                <entry>79</entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>81</entry>
+                <entry>82</entry>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>82</entry>
+                <entry>84</entry>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>74</entry>
+                <entry>87</entry>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry>75</entry>
+                <entry>96</entry>
+              </row>
+              <row>
+                <entry>9</entry>
+                <entry>89</entry>
+                <entry>112</entry>
+              </row>
+              <row>
+                <entry>10</entry>
+                <entry>98</entry>
+                <entry>120</entry>
+              </row>
+              <row>
+                <entry>11</entry>
+                <entry>100</entry>
+                <entry>125</entry>
+              </row>
+              <row>
+                <entry>12</entry>
+                <entry>126</entry>
+                <entry>168</entry>
+              </row>
+              <row>
+                <entry>13</entry>
+                <entry>125</entry>
+                <entry>195</entry>
+              </row>
+              <row>
+                <entry>14</entry>
+                <entry>152</entry>
+                <entry>220</entry>
+              </row>
+              <row>
+                <entry>15</entry>
+                <entry>170</entry>
+                <entry>242</entry>
+              </row>
+              <row>
+                <entry>16</entry>
+                <entry>176</entry>
+                <entry>245</entry>
+              </row>
+              <row>
+                <entry>17</entry>
+                <entry>186</entry>
+                <entry>282</entry>
+              </row>
+              <row>
+                <entry>18</entry>
+                <entry>218</entry>
+                <entry>320</entry>
+              </row>
+              <row>
+                <entry>19</entry>
+                <entry>220</entry>
+                <entry>340</entry>
+              </row>
+              <row>
+                <entry>20</entry>
+                <entry>216</entry>
+                <entry>380</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <figure id="id5417089">
+          <media id="id1172783599197" alt=""><image src="../../media/graphics9-2150.png" mime-type="image/png" height="352" width="501"/></media>
+        </figure>
+        <para id="id5417113">Chú ý: </para>
+        <list id="id5417125" list-type="bulleted">
+          <item>Mỗi trục x, y có các vạch phụ và vạch chính có số để xác định giá trị.</item>
+          <item>Kích cỡ mẫu được trình bày ở phần chú thích dưới hình hoặc ở trong hình.</item>
+          <item>Nếu số liệu được phân tích thống kê và có mối quan hệ giữa các biến thì có thể trình bày bằng đường hồi qui trên đồ thị, phương trình hồi qui và ý nghĩa thống kê thể hiện trong tựa hình hoặc trong hình.</item>
+          <item>Nên chọn tỷ lệ thích hợp ở hai trục để hình được cân đối và rõ ràng. </item>
+        </list>
+      </section>
+      <section id="id-624153226348">
+        <title>Biểu đồ đường biểu diễn </title>
+        <para id="id5417185"/>
+        <para id="id5417189">Biểu đồ đường biểu diễn được trình bày khi các giá trị của biến độc lập là chuỗi liên tục như nhiệt độ, áp suất hoặc sự sinh trưởng,… Các giá trị là các điểm được nối với nhau bởi đường thẳng hoặc đường cong diễn tả mối quan hệ của chiều hướng biến động và chức năng. Có thể trình bày nhiều biến phụ thuộc là những đường biểu diễn trên cùng một hình (Hình 6.14). </para>
+        <para id="id5417207">Biểu đồ đường biểu diễn thể hiện sự thay đổi của biến y theo x, so sánh một loạt các giá trị theo thời gian. Thí dụ, đường cong sinh trưởng và năng suất của cây trồng đáp ứng theo sự cung cấp phân bón (Hình 6.15), thí dụ về cách trình bày ở Hình 6.16, hoặc đường cong biểu diễn sự sinh trưởng của các cá thể hay quần thể theo thời gian (Hình 6.17).</para>
+        <para id="id5417236">Thí dụ” Bảng tính Excel về số hộ nông dân và diện tích đất canh tác</para>
+        <table id="id5417249" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Năm</entry>
+                <entry>Số hộ nông dân</entry>
+                <entry>Diện tích đất canh tác (ha)</entry>
+              </row>
+              <row>
+                <entry>1995</entry>
+                <entry>600</entry>
+                <entry>250</entry>
+              </row>
+              <row>
+                <entry>1996</entry>
+                <entry>700</entry>
+                <entry>400</entry>
+              </row>
+              <row>
+                <entry>1997</entry>
+                <entry>1400</entry>
+                <entry>500</entry>
+              </row>
+              <row>
+                <entry>1998</entry>
+                <entry>1500</entry>
+                <entry>1000</entry>
+              </row>
+              <row>
+                <entry>1999</entry>
+                <entry>1800</entry>
+                <entry>1500</entry>
+              </row>
+              <row>
+                <entry>2000</entry>
+                <entry>1900</entry>
+                <entry>1600</entry>
+              </row>
+              <row>
+                <entry>2001</entry>
+                <entry>2000</entry>
+                <entry>1700</entry>
+              </row>
+              <row>
+                <entry>2002</entry>
+                <entry>1850</entry>
+                <entry>1550</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <figure id="id5417575">
+          <media id="id1172783599662" alt=""><image src="../../media/graphics10-af10.png" mime-type="image/png" height="327" width="583"/></media>
+        </figure>
+        <para id="id5417602">Thí dụ: Bảng tính Excel về đáp ứng năng suất do cung cấp N </para>
+        <table id="id5417614" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Mức độ cung cấp N(kg/ha)</entry>
+                <entry>Năng suất (t/ha)</entry>
+              </row>
+              <row>
+                <entry>0</entry>
+                <entry>4.80</entry>
+              </row>
+              <row>
+                <entry>25</entry>
+                <entry>6.00</entry>
+              </row>
+              <row>
+                <entry>50</entry>
+                <entry>6.90</entry>
+              </row>
+              <row>
+                <entry>75</entry>
+                <entry>7.60</entry>
+              </row>
+              <row>
+                <entry>100</entry>
+                <entry>8.10</entry>
+              </row>
+              <row>
+                <entry>125</entry>
+                <entry>8.20</entry>
+              </row>
+              <row>
+                <entry>150</entry>
+                <entry>8.25</entry>
+              </row>
+              <row>
+                <entry>175</entry>
+                <entry>8.15</entry>
+              </row>
+              <row>
+                <entry>200</entry>
+                <entry>7.10</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <figure id="id5417871">
+          <media id="id1172779407976" alt=""><image src="../../media/graphics11-0dae.png" mime-type="image/png" height="446" width="498"/></media>
+        </figure>
+        <para id="id5417926">Ngày sau khi xử lý nhựa</para>
+        <para id="id5417954">Hình 6.16 Phần trăm diện tích vỏ bị cháy nhựa của 3 giống xoài khi được xử lý cùng một loại nhựa</para>
+        <para id="id5417974">Thí dụ: Bảng tính Excel về quần thể của 2 loài tôm và cua </para>
+        <para id="id5417993">trong môi trường dinh dưỡng nhân tạo</para>
+        <table id="id5418005" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Ngày</entry>
+                <entry>Cua</entry>
+                <entry>Tôm</entry>
+              </row>
+              <row>
+                <entry>0</entry>
+                <entry>18</entry>
+                <entry>30</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>20</entry>
+                <entry>48</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>30</entry>
+                <entry>78</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>32</entry>
+                <entry>130</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>41</entry>
+                <entry>178</entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>43</entry>
+                <entry>230</entry>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>62</entry>
+                <entry>252</entry>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>90</entry>
+                <entry>268</entry>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry>115</entry>
+                <entry>284</entry>
+              </row>
+              <row>
+                <entry>9</entry>
+                <entry>160</entry>
+                <entry>280</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <figure id="id5304020">
+          <media id="id1172779408405" alt=""><image src="../../media/graphics13-80f3.png" mime-type="image/png" height="378" width="572"/></media>
+        </figure>
+        <para id="id5304044">Chú ý: </para>
+        <list id="id5304056" list-type="bulleted">
+          <item>Có nhiều cách biểu thị các ký hiệu của nhóm (cua hay tôm). </item>
+          <item>Mỗi chấm đại diện cho một giá trị trung bình và được chú thích phía bên trong đồ thị. Sai số thanh được thể hiện ở mỗi điểm giá trị và được chú thích dưới đồ thị. </item>
+          <item>Do các giá trị được lấy trên mỗi nhóm độc lập (hai loài khác nhau), nên các đốm chấm không có liên hệ với nhau.</item>
+        </list>
+      </section>
+      <section id="id-186707004492">
+        <title>Biểu đồ hình bánh </title>
+        <para id="id5304106">Biểu đồ hình bánh được sử dụng để trình bày mối quan hệ tỷ lệ so sánh phần trăm tổng của các số liệu khác nhau (Hình 6.18a hoặc 6.18b). Khi trình bày các số liệu bằng biểu đồ hình bánh nên tuân theo các qui luật sau:</para>
+        <list id="id5304124" list-type="bulleted">
+          <item>Tổng số các số liệu có giá trị tổng không đổi (thường 100%).</item>
+          <item>Các giá trị có sự khác biệt tương đối lớn (có ý nghĩa), và các giá trị bằng nhau thì không nên trình bày bằng đồ thị này (thí dụ, 7 giá trị bằng nhau).</item>
+          <item>Mỗi phần chia của hình (mỗi phần tương ứng với một giá trị) nên được chú thích.</item>
+          <item>Số phần chia tương đối nhỏ (thông thường là từ 3-7 phần) và không vượt quá 7. </item>
+        </list>
+        <para id="id5304169">Thí dụ: Bảng tính Excel về ảnh hưởng đóng góp </para>
+        <para id="id5304179">  của các yếu tố đến năng suất rau màu</para>
+        <table id="id5304199" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Thành phần</entry>
+                <entry>%</entry>
+              </row>
+              <row>
+                <entry>Phân bón</entry>
+                <entry>34</entry>
+              </row>
+              <row>
+                <entry>Nước tưới</entry>
+                <entry>24</entry>
+              </row>
+              <row>
+                <entry>Giống</entry>
+                <entry>18</entry>
+              </row>
+              <row>
+                <entry>Kiểm soát dịch hại</entry>
+                <entry>12</entry>
+              </row>
+              <row>
+                <entry>Kiểm soát cỏ dại</entry>
+                <entry>8</entry>
+              </row>
+              <row>
+                <entry>Khác</entry>
+                <entry>4</entry>
+              </row>
+              <row>
+                <entry>Tổng</entry>
+                <entry>100</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <figure id="id5304417">
+          <media id="id1172779449880" alt=""><image src="graphics14.wmf" mime-type="image/wmf" height="395" width="402"/></media>
+        </figure>
+        <para id="id5304441">Hình 6.18a Ảnh hưởng đóng góp của các yếu tố đến năng suất rau màu</para>
+        <figure id="id5304464">
+          <media id="id1172779449927" alt=""><image src="graphics15.wmf" mime-type="image/wmf" height="385" width="572"/></media>
+        </figure>
+        <para id="id5304488">Hình 6.18b Ảnh hưởng đóng góp của các yếu tố đến năng suất rau màu.</para>
+      </section>
+      <section id="id-804298492819">
+        <title>Biểu đồ diện tích </title>
+        <para id="id5304515">Loại đồ thị này tương tự như biểu đồ đường biểu diễn, nhưng áp dụng khi có một số biến số liệu độc lập. Cách nầy thường sử dụng khi các biến phụ thuộc hay các hạng mục có chiều hướng biến động, có tổng tích lũy, hoặc tỷ lệ phần trăm theo thời gian. Thí dụ như sự biến động của các loại hạng mục khác nhau (Hình 6.19a hoặc 6.19b). Độ lớn của các biến là các hạng mục được thể hiện phần diện tích bên dưới các đường thẳng tương ứng với các biến hạng mục. </para>
+        <para id="id5304547">Thí dụ: Bảng tính Excel về Sự biến động của mặt hàng trái cây (kg) bán tại siêu thị</para>
+        <table id="id5304555" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Trái cây</entry>
+                <entry>Cam</entry>
+                <entry>Bưởi</entry>
+                <entry>Xoài</entry>
+                <entry>Chôm chôm</entry>
+              </row>
+              <row>
+                <entry>Thứ 2</entry>
+                <entry>460</entry>
+                <entry>360</entry>
+                <entry>210</entry>
+                <entry>120</entry>
+              </row>
+              <row>
+                <entry>Thứ 3</entry>
+                <entry>610</entry>
+                <entry>440</entry>
+                <entry>380</entry>
+                <entry>140</entry>
+              </row>
+              <row>
+                <entry>Thứ 4</entry>
+                <entry>400</entry>
+                <entry>310</entry>
+                <entry>160</entry>
+                <entry>90</entry>
+              </row>
+              <row>
+                <entry>Thứ 5</entry>
+                <entry>480</entry>
+                <entry>320</entry>
+                <entry>180</entry>
+                <entry>70</entry>
+              </row>
+              <row>
+                <entry>Thứ 6</entry>
+                <entry>400</entry>
+                <entry>320</entry>
+                <entry>170</entry>
+                <entry>120</entry>
+              </row>
+              <row>
+                <entry>Thứ 7</entry>
+                <entry>460</entry>
+                <entry>330</entry>
+                <entry>160</entry>
+                <entry>80</entry>
+              </row>
+              <row>
+                <entry>Chủ nhật</entry>
+                <entry>460</entry>
+                <entry>370</entry>
+                <entry>310</entry>
+                <entry>220</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <figure id="id5305270">
+          <media id="id1172784123513" alt=""><image src="../../media/graphics16-8750.png" mime-type="image/png" height="358" width="520"/></media>
+        </figure>
+        <figure id="id5305297">
+          <media id="id1172784123548" alt=""><image src="graphics17.png" mime-type="image/png" height="383" width="499"/></media>
+        </figure>
+      </section>
+      <section id="id-110846360648">
+        <title>Biểu đồ tam giác </title>
+        <para id="id5305329">Biểu đồ tam giác được áp dụng cho các số liệu rời rạc. Mỗi chấm nhận 3 giá trị có tổng là một hằng số (thường tính bằng %). Thí dụ ba thành phần thịt-cát-sét trong mẫu đất, phù sa hay mẫu trầm tích (Hình 6.20).</para>
+        <figure id="id5305351">
+          <media id="id1172784123615" alt=""><image src="graphics18.png" mime-type="image/png" height="326" width="396"/></media>
+        </figure>
+        <para id="id5305375">Hình 6.20 Thành phần cát, thịt, sét của 25 mẫu phù sa ở Đồng bằng Sông Cửu Long.</para>
+      </section>
+      <section id="id-0487346179909">
+        <title>Sơ đồ chuỗi </title>
+        <para id="id5305401">Sơ đồ thường được sử dụng để trình bày cách tổ chức các chương trình, mối quan hệ giữa các bước hoặc các bước trong một quá trình, trình bày chuỗi liên tiếp của các sự kiện, quá trình, hệ thống, … Các thông tin, vật liệu, số liệu có thể chú giải trong cấu trúc biểu đồ và trình bày đường mũi tên để thể hiện mối quan hệ. Thí dụ, sơ đồ sản xuất phân phối trái Thanh long (Hình 6.21).</para>
+        <figure id="id5305423">
+          <media id="id1172784123695" alt=""><image src="../../media/graphics19-ab75.png" mime-type="image/png" height="370" width="653"/></media>
+        </figure>
+        <para id="id5305446">Hình 6.21 Sản xuất phân phối trái Thanh long</para>
+        <para id="id5305462"/>
+      </section>
+      <section id="id-728412198892">
+        <title>Sơ đồ cơ cấu tổ chức </title>
+        <para id="id5305487">Đây là loại sơ đồ đặc biệt được sử dụng để trình bày cấu trúc, cơ cấu tổ chức bên trong theo trình tự hay cấp bậc. Loại sơ đồ này cũng thể hiện mối quan hệ tổ chức, các bộ phận, sự điều khiển các mệnh lệnh chỉ đạo, mối quan hệ gián tiếp và trực tiếp (Hình 6.22).</para>
+        <figure id="id5305510">
+          <media id="id1172784123783" alt=""><image src="../../media/graphics20-a393.png" mime-type="image/png" height="229" width="653"/></media>
+        </figure>
+        <para id="id5305534">Hình 6.22 Cơ cấu tổ chức trung tâm thông tin khoa học và công nghệ050100150200250300350012345678910NgàyS?l??ng cá th100500150200250300350012345678910NgàyS?l??ng cá th500100150200250300350012345678910NgàyS?l??ng cá th<media id="id1172784123821" alt=""><image src="../../media/graphics21-6487.png" mime-type="image/png" height="16" width="16"/></media></para>
+      </section>
+    </section>
+  </content>
+</document>
